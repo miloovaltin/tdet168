@@ -1,0 +1,16 @@
+{
+"name": "tdet168",
+"theme": "tdet168",
+"version": "6.8.10",
+"description": "tdet168 ทางเข้าเว็บบาคาร่าเว็บตรง ไม่ผ่านเอเย่นต์ ให้เงินเครดิตฟรี",
+"keywords": [
+"tdet168",
+"tdet168 เครดิตฟรี",
+"tdet168 ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/tdet168",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
